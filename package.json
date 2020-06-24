@@ -1,0 +1,11 @@
+{
+  "name": "app-express-hyperledger",
+  "description": "get and invoke hyperledgerp",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "fabric-ca-client": "^2.1.0",
+    "fabric-network": "^2.1.0",
+    "express": "3.x"
+  }
+}
